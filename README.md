@@ -1,2 +1,3 @@
-# M-laria
-side projects, i think
+# FOR funz
+for side projects, i think 
+
